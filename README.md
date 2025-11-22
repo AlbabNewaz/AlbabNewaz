@@ -2,7 +2,7 @@
 - I am an aspiring data scientist who loves gaining insights from data
 - I graduated from UCSB in 2022 with a bachelors in Economics
 - I am currently pursuing a Masters degree in Data Science at UCSD
-- Experience coding in Python and SQL
+- Experience coding in Python and SQL (and some basic HTML and javascript)
 <!--
 **AlbabNewaz/AlbabNewaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
